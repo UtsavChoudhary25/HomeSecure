@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0F111A"
+        android:pathData="0,0h108v108h-108z"/>
+    <!-- Background Shield Glow -->
+    <path
+        android:fillColor="#1A1E2E"
+        android:pathData="M54,18L24,30v27c0,21.6 14.8,40.8 30,45c15.2,-4.2 30,-23.4 30,-45V30L54,18z"/>
+    <!-- Inner Shield Border -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M54,24L30,34v23c0,17.5 12,33 24,36.5c12,-3.5 24,-19 24,-36.5V34L54,24z"/>
+    <!-- Home Icon inside Shield -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38L38,50v18h10v-12h12v12h10V50L54,38z"/>
+</vector>

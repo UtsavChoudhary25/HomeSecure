@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">HomeSecure</string>
+    <string name="subtitle">Smart Home Control</string>
+    <string name="home_name">My Smart Home</string>
+    <string name="student_info">Utsav Choudhary (25MCAR0125)</string>
+    <string name="user_name">Utsav Choudhary</string>
+    <string name="user_usn">USN: 25MCAR0125</string>
+    <string name="user_role">Owner</string>
+    <string name="system_status_label">System Status</string>
+    <string name="connected_devices_label">Connected Devices</string>
+    <string name="status_secure">Secure</string>
+    <string name="status_devices">8 Devices Connected</string>
+    <string name="devices_list_summary">Hub • 3 Lights • AC • Door Lock • Security Cam</string>
+    <string name="quick_controls">Quick Controls</string>
+
+    <!-- Navigation Options -->
+    <string name="nav_lighting">Lighting</string>
+    <string name="nav_lighting_sub">3 Rooms • Dynamic Control</string>
+    <string name="nav_ac">Air Conditioning</string>
+    <string name="nav_ac_sub">Climate • Temperature Control</string>
+    <string name="nav_security">Security</string>
+    <string name="nav_security_sub">Protection • Armed Settings</string>
+
+    <!-- Lighting Fragment -->
+    <string name="title_lighting">Lighting Control</string>
+    <string name="select_room">Select Room</string>
+    <string name="room_living">Living Room</string>
+    <string name="room_bedroom">Bedroom</string>
+    <string name="room_kitchen">Kitchen</string>
+    <string name="light_power">Light Power</string>
+    <string name="brightness">Brightness</string>
+    <string name="light_state_on">%s Light is ON</string>
+    <string name="light_state_off">%s Light is OFF</string>
+
+    <!-- AC Fragment -->
+    <string name="title_ac">Air Conditioning</string>
+    <string name="ac_status_cooling">Cooling</string>
+    <string name="ac_status_cooling_high">Cooling (High)</string>
+    <string name="ac_status_cooling_optimal">Cooling (Optimal)</string>
+    <string name="ac_status_heating">Eco / Heating Mode</string>
+
+    <!-- Security Fragment -->
+    <string name="title_security">Security Control</string>
+    <string name="select_security_mode">Select Security Mode</string>
+    <string name="mode_home">Home</string>
+    <string name="mode_away">Away</string>
+    <string name="mode_night">Night</string>
+    <string name="selected_mode_label">Selected Mode: %s</string>
+    <string name="btn_activate_security">Activate Security</string>
+
+    <!-- Security Status Activity -->
+    <string name="security_activated">Security Activated</string>
+    <string name="mode_formatted">Mode: %s</string>
+    <string name="security_active_desc">Your home is fully monitored and protected.</string>
+    <string name="btn_return_dashboard">Return to Dashboard</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">HomeSecure</string>
+    <string name="notification_text">Security activated: %s</string>
+    <string name="notification_channel_name">HomeSecure Security Alerts</string>
+    <string name="notification_channel_desc">Notifications for HomeSecure system status changes</string>
+</resources>

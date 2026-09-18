@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Palette -->
+    <color name="bg_dark">#0F111A</color>
+    <color name="bg_card">#1A1E2E</color>
+    <color name="bg_card_end">#22273B</color>
+    <color name="card_stroke">#2D344B</color>
+    <color name="card_stroke_active">#6366F1</color>
+
+    <!-- Accents -->
+    <color name="primary_indigo">#6366F1</color>
+    <color name="primary_indigo_dark">#4F46E5</color>
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="status_green">#10B981</color>
+    <color name="status_green_bg">#1A362E</color>
+    <color name="amber_warm">#F59E0B</color>
+    <color name="amber_warm_bg">#3D2A14</color>
+    <color name="rose_alert">#F43F5E</color>
+    <color name="rose_alert_bg">#3F1924</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#9CA3AF</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
