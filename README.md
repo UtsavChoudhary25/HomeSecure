@@ -65,11 +65,6 @@ HomeSecure
 │   │   │       └── themes.xml
 │   │   └── AndroidManifest.xml
 │   └── build.gradle.kts
-├── screenshots/
-│   ├── test_case_1_lighting.png
-│   ├── test_case_2_ac.png
-│   ├── test_case_3_security.png
-│   └── test_case_4_status.png
 └── README.md
 ```
 
@@ -82,37 +77,25 @@ HomeSecure
 
 ---
 
-## 📱 Test Cases & Output Screenshots
+## 📱 Test Cases Overview
 
 ### 🔹 Test Case 1: Dashboard with Student Credentials, Connected Devices & Lighting Control
 - **Description**: Verifies student identification card showing **Utsav Choudhary (USN: 25MCAR0125)**, system status, connected devices card ("8 Devices Connected"), and interactive Lighting Control fragment with room selector, toggle switch, and brightness seekbar.
-- **Output Screenshot**:
-
-![Test Case 1 - Dashboard & Lighting](screenshots/test_case_1_lighting.png)
 
 ---
 
 ### 🔹 Test Case 2: Air Conditioning Climate Control
 - **Description**: Demonstrates real-time AC temperature adjustment (16°C – 30°C range) via SeekBar, showing dynamic status updating between Cooling (Optimal), Cooling (High), and Eco/Heating mode.
-- **Output Screenshot**:
-
-![Test Case 2 - AC Control](screenshots/test_case_2_ac.png)
 
 ---
 
 ### 🔹 Test Case 3: Security Mode Selection & System Controls
 - **Description**: Displays security mode selection (Home / Away / Night) via RadioGroup, active mode badge indicator, and security activation button.
-- **Output Screenshot**:
-
-![Test Case 3 - Security Control](screenshots/test_case_3_security.png)
 
 ---
 
 ### 🔹 Test Case 4: Security Activation & Status Confirmation Activity
 - **Description**: Confirms system activation by passing `SECURITY_MODE` via Intent extras, raising a system notification (`"Security activated: Away"`), and navigating to `SecurityStatusActivity`.
-- **Output Screenshot**:
-
-![Test Case 4 - Security Status Activity](screenshots/test_case_4_status.png)
 
 ---
 
